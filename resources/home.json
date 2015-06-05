@@ -1,0 +1,853 @@
+{
+  "companies": [
+    {
+      "id": "middle",
+      "name": "Left Tower",
+      "role": "client",
+      "reference": "2695",
+      "permissions": [
+        "manage_finance",
+        "manage_employment",
+        "manage_recruiting",
+        "manage_teamroom",
+        "manage_affiliation"
+      ],
+      "teams": [
+        {
+          "id": "middle:abcdef",
+          "reference": "64177",
+          "name": "Abcdefg",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "vdtsfku4gza3xs5wkkbmpw",
+          "reference": "202313",
+          "name": "A galaxy far far away",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:anotherprovidert",
+          "reference": "21975",
+          "name": "Another Provider Team",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "r4mqjgjdyujihivpw0gjqw",
+          "reference": "517868",
+          "name": "blabla",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:camelCased",
+          "reference": "20406",
+          "name": "camelCased",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:camelcased1",
+          "reference": "36619",
+          "name": "camelCased1",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle",
+          "reference": "2695",
+          "name": "Left Tower",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:mordor",
+          "reference": "11928",
+          "name": "Mordor",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "2krwq4aqexwxqgwol8swyg",
+          "reference": "512746",
+          "name": "new Team Go-Go",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:port",
+          "reference": "36587",
+          "name": "port",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:qwe",
+          "reference": "35293",
+          "name": "qwe",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:savingfund1",
+          "reference": "13580",
+          "name": "Saving Fund1",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:savingfund2",
+          "reference": "13581",
+          "name": "Saving Fund2",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:savingfund3",
+          "reference": "13582",
+          "name": "Saving Fund3",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:savingfund4",
+          "reference": "13583",
+          "name": "Saving Fund4",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:sdf",
+          "reference": "62992",
+          "name": "sdf",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:sdf1",
+          "reference": "62993",
+          "name": "sdff",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "t3f_vr7h3ihqujnzohsykw",
+          "reference": "291442",
+          "name": "Team Name #",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:test",
+          "reference": "33787",
+          "name": "Test",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:testhidden",
+          "reference": "32949",
+          "name": "test hidden",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:testhidden_new",
+          "reference": "33822",
+          "name": "testhidden_new",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:testest",
+          "reference": "32655",
+          "name": "Test Test 2",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:zz1",
+          "reference": "35956",
+          "name": "Test zz2",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:westtower",
+          "reference": "46803",
+          "name": "West Tower",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:dfds",
+          "reference": "62991",
+          "name": "Zhe",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "middle:zzz",
+          "reference": "33773",
+          "name": "Zzz",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "2695"
+    },
+    {
+      "id": "TeamID_0",
+      "name": "Absolute",
+      "role": "client",
+      "reference": "17591",
+      "permissions": [
+        "manage_employment",
+        "manage_recruiting"
+      ],
+      "teams": [
+        {
+          "id": "TeamID_0",
+          "reference": "17591",
+          "name": "Absolute",
+          "permissions": [
+            "manage_employment",
+            "manage_recruiting"
+          ]
+        }
+      ],
+      "context": "17591"
+    },
+    {
+      "id": "uno97ad3z3wzq42e0vbrag",
+      "name": "agencyXU",
+      "role": "client",
+      "reference": "276662",
+      "permissions": [
+        "manage_finance",
+        "manage_affiliation",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "uno97ad3z3wzq42e0vbrag",
+          "reference": "276662",
+          "name": "agencyXU",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "276662"
+    },
+    {
+      "id": "xivkiacsr_8igwv8tj9d9w",
+      "name": "jijialert('a')",
+      "role": "client",
+      "reference": "278327",
+      "permissions": [
+        "manage_finance",
+        "manage_affiliation",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "xivkiacsr_8igwv8tj9d9w",
+          "reference": "278327",
+          "name": "jijialert('a')",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "278327"
+    },
+    {
+      "id": "zlrl6kyrrgncr3zmlfzkqw",
+      "name": "landinggroup",
+      "role": "client",
+      "reference": "497675",
+      "permissions": [
+        "manage_finance",
+        "manage_employment",
+        "manage_recruiting",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "zlrl6kyrrgncr3zmlfzkqw",
+          "reference": "497675",
+          "name": "landinggroup",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "497675"
+    },
+    {
+      "id": "f2whfc2iow-2wyqe0u8qig",
+      "name": "NWP-MVP",
+      "role": "client",
+      "reference": "373354",
+      "permissions": [
+        "manage_finance",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "f2whfc2iow-2wyqe0u8qig",
+          "reference": "373354",
+          "name": "NWP-MVP",
+          "permissions": [
+            "manage_finance",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "373354"
+    },
+    {
+      "id": "23p5fko8wrk1sbjzheapbq",
+      "name": "STRESS",
+      "role": "client",
+      "reference": "523406",
+      "permissions": [
+        "manage_finance",
+        "manage_employment",
+        "manage_recruiting",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "23p5fko8wrk1sbjzheapbq",
+          "reference": "523406",
+          "name": "STRESS",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "6u7wikirzrd5gk-rdyknow",
+          "reference": "537193",
+          "name": "stress01",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "yaw8ds3sqnxaxm9wrvlrgg",
+          "reference": "537194",
+          "name": "stress02",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "k_utpwladtqnr2tw3g1kvq",
+          "reference": "537195",
+          "name": "stress03",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "mn6wea0ececb8lgoxrqepq",
+          "reference": "537196",
+          "name": "stress04",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "js2-lgibe1gskbvqydsjpw",
+          "reference": "537200",
+          "name": "stress05",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "mn8so7vduan9msfshnw4kq",
+          "reference": "537205",
+          "name": "stress06",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "0jdidvlgmewdafydon1akw",
+          "reference": "537771",
+          "name": "stress07",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "drhi7blr8z7ztns7cijchg",
+          "reference": "537772",
+          "name": "stress08",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "7lr3j6v8_kapqqc42wxtag",
+          "reference": "537774",
+          "name": "stress09",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "lysfmhtsemfkdbj2c3zu-a",
+          "reference": "537776",
+          "name": "stress10",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "1_rjyml6ra2d1ttfj0j_kq",
+          "reference": "537778",
+          "name": "stress11",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "m2axss3otny3n1uouybivw",
+          "reference": "537781",
+          "name": "stress12",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "qmhx5lz7uyodgrdgyyzerg",
+          "reference": "537783",
+          "name": "stress13",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "_zliq2ef6nv4b50mo_tzja",
+          "reference": "537784",
+          "name": "stress14",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "qttz-mo74n0wxdptwxlwjg",
+          "reference": "537785",
+          "name": "stress15",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "iy951oafqnjhqsbczum3jq",
+          "reference": "537787",
+          "name": "stress16",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "jb_kpdxqsvks030lvrcujw",
+          "reference": "537789",
+          "name": "stress17",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "ne4iavhm4f5fo63ngv7yca",
+          "reference": "537790",
+          "name": "stress18",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "9snmxcsicfchv5z3umbria",
+          "reference": "537793",
+          "name": "stress19",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "hlyymrytxykcsruaem72ra",
+          "reference": "537794",
+          "name": "stress20",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "v49xv9zfi0c-hstqf1q7fq",
+          "reference": "523411",
+          "name": "team1",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "m5xnsx4bpb9owjvnkhikia",
+          "reference": "523412",
+          "name": "team2",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "8jg4aojg94z3kzfiu-qgha",
+          "reference": "523413",
+          "name": "team3",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "523406"
+    },
+    {
+      "id": "ctsbctair3uwh1cfbqvlag",
+      "name": "Stress Tests",
+      "role": "client",
+      "reference": "536991",
+      "permissions": [
+        "manage_finance",
+        "manage_employment",
+        "manage_recruiting",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "v2kldxrdh0ux4v1_murpea",
+          "reference": "545269",
+          "name": "stress01",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        },
+        {
+          "id": "ctsbctair3uwh1cfbqvlag",
+          "reference": "536991",
+          "name": "Stress Tests",
+          "permissions": [
+            "manage_finance",
+            "manage_employment",
+            "manage_recruiting",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "536991"
+    },
+    {
+      "id": "jf3ijyniqtvsnqql_m-m7a",
+      "name": "Test Agency",
+      "role": "client",
+      "reference": "272774",
+      "permissions": [
+        "manage_finance",
+        "manage_affiliation",
+        "manage_teamroom"
+      ],
+      "teams": [
+        {
+          "id": "jf3ijyniqtvsnqql_m-m7a",
+          "reference": "272774",
+          "name": "Test Agency",
+          "permissions": [
+            "manage_finance",
+            "manage_affiliation",
+            "manage_teamroom"
+          ]
+        }
+      ],
+      "context": "272774"
+    },
+    {
+      "id": "tower",
+      "name": "White Tower",
+      "role": "client",
+      "reference": "2697",
+      "permissions": [
+        "manage_employment",
+        "manage_recruiting"
+      ],
+      "teams": [
+        {
+          "id": "tower",
+          "reference": "2697",
+          "name": "White Tower",
+          "permissions": [
+            "manage_employment",
+            "manage_recruiting"
+          ]
+        }
+      ],
+      "context": "2697"
+    },
+    {
+      "id": "ggrey",
+      "name": "Gandalf Grey",
+      "role": "contractor",
+      "reference": "4842",
+      "permissions": [],
+      "teams": [],
+      "context": "d4842"
+    }
+  ],
+  "settings": {
+    "defaults": {
+      "limit": 20
+    }
+  },
+  "me": {
+    "id": "4842",
+    "username": "ggrey",
+    "thumbnail": "https://odesk-dev02-portraits.s3.amazonaws.com/Users:ggrey:PortraitUrl_100?AWSAccessKeyId=AKIAI6O4KKJ4MFGGZ5AA&Expires=2147483647&Signature=p%2FfMIbw5qU8G2tJs7auD12tnBK4%3D&1429813038767351",
+    "name": "Gandalf Grey",
+    "timezone": "Asia/Baghdad",
+    "key": "~01594f5ecab6a76fb2",
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isMobileSignup": null,
+    "workStatus": "soon",
+    "workAvailability": true
+  },
+  "categories": [
+    {
+      "category": "Legal",
+      "subcategory": "Family Law",
+      "categoryAlias": "legal",
+      "subcategoryAlias": "family-law"
+    },
+    {
+      "category": "Web, Mobile & Software Dev",
+      "subcategory": "Web Development",
+      "categoryAlias": "web-mobile-software-dev",
+      "subcategoryAlias": "web-development"
+    },
+    {
+      "category": "Legal",
+      "subcategory": "Criminal Law",
+      "categoryAlias": "legal",
+      "subcategoryAlias": "criminal-law"
+    },
+    {
+      "category": "Web, Mobile & Software Dev",
+      "subcategory": "Ecommerce Development",
+      "categoryAlias": "web-mobile-software-dev",
+      "subcategoryAlias": "ecommerce-development"
+    }
+  ],
+  "qtAllocation": {
+    "EOM1402_PostFlowV2": "Treatment",
+    "MessagingSystem": "MC",
+    "ATSMobile": null
+  },
+  "featureFlags": {
+    "EOM1245Freelancer20Experience": true,
+    "EOM1311MobileSessionCam": false,
+    "EOM961MakeGhostPostPublic": false
+  }
+}

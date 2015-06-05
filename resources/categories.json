@@ -1,0 +1,526 @@
+[
+  {
+    "id": "531770282580668418",
+    "title": "Web, Mobile & Software Dev",
+    "topics": [
+      {
+        "title": "Desktop Software Development",
+        "id": "531770282589057025",
+        "alias": "desktop-software-development"
+      },
+      {
+        "title": "Ecommerce Development",
+        "id": "531770282589057026",
+        "alias": "ecommerce-development"
+      },
+      {
+        "title": "Game Development",
+        "id": "531770282589057027",
+        "alias": "game-development"
+      },
+      {
+        "title": "Mobile Development",
+        "id": "531770282589057024",
+        "alias": "mobile-development"
+      },
+      {
+        "title": "Product Management",
+        "id": "531770282589057030",
+        "alias": "product-management"
+      },
+      {
+        "title": "QA & Testing",
+        "id": "531770282589057031",
+        "alias": "qa-testing"
+      },
+      {
+        "title": "Scripts & Utilities",
+        "id": "531770282589057028",
+        "alias": "scripts-utilities"
+      },
+      {
+        "title": "Web Development",
+        "id": "531770282584862733",
+        "alias": "web-development"
+      },
+      {
+        "title": "Web & Mobile Design",
+        "id": "531770282589057029",
+        "alias": "web-mobile-design"
+      },
+      {
+        "title": "Other - Software Development",
+        "id": "531770282589057032",
+        "alias": "other-software-development"
+      }
+    ],
+    "alias": "web-mobile-software-dev"
+  },
+  {
+    "id": "531770282580668419",
+    "title": "IT & Networking",
+    "topics": [
+      {
+        "title": "Database Administration",
+        "id": "531770282589057033",
+        "alias": "database-administration"
+      },
+      {
+        "title": "ERP / CRM Software",
+        "id": "531770282589057034",
+        "alias": "erp-crm-software"
+      },
+      {
+        "title": "Information Security",
+        "id": "531770282589057036",
+        "alias": "information-security"
+      },
+      {
+        "title": "Network & System Administration",
+        "id": "531770282589057035",
+        "alias": "network-system-administration"
+      },
+      {
+        "title": "Other - IT & Networking",
+        "id": "531770282589057037",
+        "alias": "other-it-networking"
+      }
+    ],
+    "alias": "it-networking"
+  },
+  {
+    "id": "531770282580668420",
+    "title": "Data Science & Analytics",
+    "topics": [
+      {
+        "title": "A/B Testing",
+        "id": "531770282593251330",
+        "alias": "ab-testing"
+      },
+      {
+        "title": "Data Visualization",
+        "id": "531770282589057039",
+        "alias": "data-visualization"
+      },
+      {
+        "title": "Data Extraction / ETL",
+        "id": "531770282593251331",
+        "alias": "data-extraction-etl"
+      },
+      {
+        "title": "Data Mining & Management",
+        "id": "531770282589057038",
+        "alias": "data-mining-management"
+      },
+      {
+        "title": "Machine Learning",
+        "id": "531770282593251329",
+        "alias": "machine-learning"
+      },
+      {
+        "title": "Quantitative Analysis",
+        "id": "531770282593251328",
+        "alias": "quantitative-analysis"
+      },
+      {
+        "title": "Other - Data Science & Analytics",
+        "id": "531770282593251332",
+        "alias": "other-data-science-analytics"
+      }
+    ],
+    "alias": "data-science-analytics"
+  },
+  {
+    "id": "531770282584862722",
+    "title": "Engineering & Architecture",
+    "topics": [
+      {
+        "title": "3D Modeling & CAD",
+        "id": "531770282601639948",
+        "alias": "d-modeling-cad"
+      },
+      {
+        "title": "Architecture",
+        "id": "531770282601639949",
+        "alias": "architecture"
+      },
+      {
+        "title": "Chemical Engineering",
+        "id": "531770282605834240",
+        "alias": "chemical-engineering"
+      },
+      {
+        "title": "Civil & Structural Engineering",
+        "id": "531770282601639950",
+        "alias": "civil-structural-engineering"
+      },
+      {
+        "title": "Contract Manufacturing",
+        "id": "531770282605834241",
+        "alias": "contract-manufacturing"
+      },
+      {
+        "title": "Electrical Engineering",
+        "id": "531770282601639951",
+        "alias": "electrical-engineering"
+      },
+      {
+        "title": "Interior Design",
+        "id": "531770282605834242",
+        "alias": "interior-design"
+      },
+      {
+        "title": "Mechanical Engineering",
+        "id": "531770282601639952",
+        "alias": "mechanical-engineering"
+      },
+      {
+        "title": "Product Design",
+        "id": "531770282601639953",
+        "alias": "product-design"
+      },
+      {
+        "title": "Other - Engineering & Architecture",
+        "id": "531770282605834243",
+        "alias": "other-engineering-architecture"
+      }
+    ],
+    "alias": "engineering-architecture"
+  },
+  {
+    "id": "531770282580668421",
+    "title": "Design & Creative",
+    "topics": [
+      {
+        "title": "Animation",
+        "id": "531770282593251333",
+        "alias": "animation"
+      },
+      {
+        "title": "Audio Production",
+        "id": "531770282593251341",
+        "alias": "audio-production"
+      },
+      {
+        "title": "Graphic Design",
+        "id": "531770282593251334",
+        "alias": "graphic-design"
+      },
+      {
+        "title": "Illustration",
+        "id": "531770282593251335",
+        "alias": "illustration"
+      },
+      {
+        "title": "Logo Design & Branding",
+        "id": "531770282593251336",
+        "alias": "logo-design-branding"
+      },
+      {
+        "title": "Photography",
+        "id": "531770282593251340",
+        "alias": "photography"
+      },
+      {
+        "title": "Presentations",
+        "id": "531770282593251337",
+        "alias": "presentations"
+      },
+      {
+        "title": "Video Production",
+        "id": "531770282593251338",
+        "alias": "video-production"
+      },
+      {
+        "title": "Voice Talent",
+        "id": "531770282593251339",
+        "alias": "voice-talent"
+      },
+      {
+        "title": "Other - Design & Creative",
+        "id": "531770282593251342",
+        "alias": "other-design-creative"
+      }
+    ],
+    "alias": "design-creative"
+  },
+  {
+    "id": "531770282580668423",
+    "title": "Writing",
+    "topics": [
+      {
+        "title": "Academic Writing & Research",
+        "id": "531770282597445648",
+        "alias": "academic-writing-research"
+      },
+      {
+        "title": "Article & Blog Writing",
+        "id": "531770282597445642",
+        "alias": "article-blog-writing"
+      },
+      {
+        "title": "Copywriting",
+        "id": "531770282597445643",
+        "alias": "copywriting"
+      },
+      {
+        "title": "Creative Writing",
+        "id": "531770282597445645",
+        "alias": "creative-writing"
+      },
+      {
+        "title": "Editing & Proofreading",
+        "id": "531770282597445644",
+        "alias": "editing-proofreading"
+      },
+      {
+        "title": "Grant Writing",
+        "id": "531770282601639936",
+        "alias": "grant-writing"
+      },
+      {
+        "title": "Resumes & Cover Letters",
+        "id": "531770282601639937",
+        "alias": "resumes-cover-letters"
+      },
+      {
+        "title": "Technical Writing",
+        "id": "531770282597445646",
+        "alias": "technical-writing"
+      },
+      {
+        "title": "Web Content",
+        "id": "531770282597445647",
+        "alias": "web-content"
+      },
+      {
+        "title": "Other - Writing",
+        "id": "531770282601639938",
+        "alias": "other-writing"
+      }
+    ],
+    "alias": "writing"
+  },
+  {
+    "id": "531770282584862720",
+    "title": "Translation",
+    "topics": [
+      {
+        "title": "General Translation",
+        "id": "531770282601639939",
+        "alias": "general-translation"
+      },
+      {
+        "title": "Legal Translation",
+        "id": "531770282601639940",
+        "alias": "legal-translation"
+      },
+      {
+        "title": "Medical Translation",
+        "id": "531770282601639942",
+        "alias": "medical-translation"
+      },
+      {
+        "title": "Technical Translation",
+        "id": "531770282601639941",
+        "alias": "technical-translation"
+      }
+    ],
+    "alias": "translation"
+  },
+  {
+    "id": "531770282584862723",
+    "title": "Legal",
+    "topics": [
+      {
+        "title": "Contract Law",
+        "id": "531770282605834246",
+        "alias": "contract-law"
+      },
+      {
+        "title": "Corporate Law",
+        "id": "531770282605834245",
+        "alias": "corporate-law"
+      },
+      {
+        "title": "Criminal Law",
+        "id": "531770282605834247",
+        "alias": "criminal-law"
+      },
+      {
+        "title": "Family Law",
+        "id": "531770282605834248",
+        "alias": "family-law"
+      },
+      {
+        "title": "Intellectual Property Law",
+        "id": "531770282605834244",
+        "alias": "intellectual-property-law"
+      },
+      {
+        "title": "Paralegal Services",
+        "id": "531770283692158976",
+        "alias": "paralegal-services"
+      },
+      {
+        "title": "Other - Legal",
+        "id": "531770283696353280",
+        "alias": "other-legal"
+      }
+    ],
+    "alias": "legal"
+  },
+  {
+    "id": "531770282580668416",
+    "title": "Admin Support",
+    "topics": [
+      {
+        "title": "Data Entry",
+        "id": "531770282584862724",
+        "alias": "data-entry"
+      },
+      {
+        "title": "Personal / Virtual Assistant",
+        "id": "531770282584862725",
+        "alias": "personal-virtual-assistant"
+      },
+      {
+        "title": "Project Management",
+        "id": "531770282584862728",
+        "alias": "project-management"
+      },
+      {
+        "title": "Transcription",
+        "id": "531770282584862727",
+        "alias": "transcription"
+      },
+      {
+        "title": "Web Research",
+        "id": "531770282584862726",
+        "alias": "web-research"
+      },
+      {
+        "title": "Other - Admin Support",
+        "id": "531770282584862729",
+        "alias": "other-admin-support"
+      }
+    ],
+    "alias": "admin-support"
+  },
+  {
+    "id": "531770282580668417",
+    "title": "Customer Service",
+    "topics": [
+      {
+        "title": "Customer Service",
+        "id": "531770282584862730",
+        "alias": "customer-service"
+      },
+      {
+        "title": "Technical Support",
+        "id": "531770282584862731",
+        "alias": "technical-support"
+      },
+      {
+        "title": "Other - Customer Service",
+        "id": "531770282584862732",
+        "alias": "other-customer-service"
+      }
+    ],
+    "alias": "customer-service"
+  },
+  {
+    "id": "531770282580668422",
+    "title": "Sales & Marketing",
+    "topics": [
+      {
+        "title": "Display Advertising",
+        "id": "531770282597445636",
+        "alias": "display-advertising"
+      },
+      {
+        "title": "Email & Marketing Automation",
+        "id": "531770282597445632",
+        "alias": "email-marketing-automation"
+      },
+      {
+        "title": "Lead Generation",
+        "id": "531770282597445634",
+        "alias": "lead-generation"
+      },
+      {
+        "title": "Market & Customer Research",
+        "id": "531770282597445633",
+        "alias": "market-customer-research"
+      },
+      {
+        "title": "Marketing Strategy",
+        "id": "531770282593251343",
+        "alias": "marketing-strategy"
+      },
+      {
+        "title": "Public Relations",
+        "id": "531770282593251344",
+        "alias": "public-relations"
+      },
+      {
+        "title": "SEM - Search Engine Marketing",
+        "id": "531770282597445637",
+        "alias": "sem-search-engine-marketing"
+      },
+      {
+        "title": "SEO - Search Engine Optimization",
+        "id": "531770282597445638",
+        "alias": "seo-search-engine-optimization"
+      },
+      {
+        "title": "SMM - Social Media Marketing",
+        "id": "531770282597445639",
+        "alias": "smm-social-media-marketing"
+      },
+      {
+        "title": "Telemarketing & Telesales",
+        "id": "531770282597445635",
+        "alias": "telemarketing-telesales"
+      },
+      {
+        "title": "Other - Sales & Marketing",
+        "id": "531770282597445641",
+        "alias": "other-sales-marketing"
+      }
+    ],
+    "alias": "sales-marketing"
+  },
+  {
+    "id": "531770282584862721",
+    "title": "Accounting & Consulting",
+    "topics": [
+      {
+        "title": "Accounting",
+        "id": "531770282601639943",
+        "alias": "accounting"
+      },
+      {
+        "title": "Financial Planning",
+        "id": "531770282601639945",
+        "alias": "financial-planning"
+      },
+      {
+        "title": "Human Resources",
+        "id": "531770282601639946",
+        "alias": "human-resources"
+      },
+      {
+        "title": "Management Consulting",
+        "id": "531770282601639944",
+        "alias": "management-consulting"
+      },
+      {
+        "title": "Other - Accounting & Consulting",
+        "id": "531770282601639947",
+        "alias": "other-accounting-consulting"
+      }
+    ],
+    "alias": "accounting-consulting"
+  }
+]
